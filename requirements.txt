@@ -1,0 +1,9 @@
+torch==1.7.1
+torchvision
+Pillow
+opencv_python
+wheel
+dlib==19.19.0
+cmake
+boost
+face-recognition
